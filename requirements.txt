@@ -1,0 +1,11 @@
+flask
+joblib
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+seaborn
+h5py
+firebase-admin
+requests

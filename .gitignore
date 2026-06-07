@@ -1,0 +1,6 @@
+firebase_key.json
+data/
+__pycache__/
+*.pyc
+.venv/
+Thumbs.db
